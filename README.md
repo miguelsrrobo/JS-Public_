@@ -6,4 +6,4 @@
 # Assistir o video do Linux tips
 ###### http://embedyoutube.org/
 
-![](http://img.youtube.com/vi/2TLU3d3qgCw/0.jpg)](http://www.youtube.com/watch?v=2TLU3d3qgCw "")
+[![](http://img.youtube.com/vi/2TLU3d3qgCw/0.jpg)](http://www.youtube.com/watch?v=2TLU3d3qgCw "")
