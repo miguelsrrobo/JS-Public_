@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="Introdução/assets/python_logo_extended.png" alt="python_logo_extended" width="100%" />
+</h1>
+
 #   **Python** 
 *   Repositorio Para Estudo em Python 
 *   Em estado de Evolução 
