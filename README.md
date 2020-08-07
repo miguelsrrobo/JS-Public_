@@ -2,10 +2,8 @@
 <p align = "center">
   <img src="assets/python_logo_extended.png" alt="python_logo_extended" width="100%" />
 </p>
-<p>
- 
-</p>
-#   **Python** 
+
+# **Python** 
 *   Repositorio Para Estudo em Python 
 *   Em estado de Evolução 
 
