@@ -3,19 +3,14 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/miguel-garcia-silvestre-3265ab19b/">
-      <img alt="miguel garcia silvestre" src="https://img.shields.io/badge/linkedin-Miguel Garcia Silvestre-blue" />
-   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6-blue">
-
-  <a aria-label="language count" href="https://img.shields.io/github/languages/count/miguelsrrobo/Python_Public">
-    <img src="https://img.shields.io/github/languages/count/miguelsrrobo/Python_Public-blue">
+  <a>
+    <img alt="miguel garcia silvestre" src="https://img.shields.io/badge/linkedin-Miguel Garcia Silvestre-blue" />
   </a>
-  <a href="https://img.shields.io/github/languages/top/miguelsrrobo/Python_Public?style=flat-square">
-    <img alt="Linguag" src="https://img.shields.io/github/last-commit/RafaelGoulartB/proffy?color=774DD6">
-  </a> 
+  <a>
+    <img alt="language count" src="https://img.shields.io/github/languages/count/miguelsrrobo/Python_Public">
+  </a>
   <img alt="License" src="https://img.shields.io/github/languages/top/miguelsrrobo/Python_Public?style=flat-square">
-  <a href="ttps://github.com/miguelsrrobo/Python_Public-blue">
+  <a>
     <img alt="Stargazers" src="https://img.shields.io/github/followers/miguelsrrobo?style=social-blue">
   </a>
 </p>
