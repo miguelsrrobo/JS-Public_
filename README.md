@@ -1,7 +1,10 @@
-<h1 align="center">
+![GitHub top language](https://img.shields.io/github/languages/top/miguelsrrobo/Python_Public?style=flat-square)
+<p align = "center">
   <img src="assets/python_logo_extended.png" alt="python_logo_extended" width="100%" />
-</h1>
-
+</p>
+<p>
+ 
+</p>
 #   **Python** 
 *   Repositorio Para Estudo em Python 
 *   Em estado de Evolução 
