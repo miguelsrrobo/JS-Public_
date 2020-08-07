@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Introdução/assets/python_logo_extended.png" alt="python_logo_extended" width="100%" />
+  <img src="assets/python_logo_extended.png" alt="python_logo_extended" width="100%" />
 </h1>
 
 #   **Python** 
